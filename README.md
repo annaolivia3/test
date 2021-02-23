@@ -11,3 +11,5 @@
 > es könnte sein
 > muss es aber nicht
 > oder doch
+
+[spiegel](https://www.spiegel.de/) - spiegel.de
