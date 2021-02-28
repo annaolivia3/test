@@ -4,4 +4,4 @@
 | Die Anfänge mit git und github | einfaches repo und readme in markdown |
 
 - [x] ja
-- [] nein
+- [ ] nein
